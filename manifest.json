@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "UWO EzProxy Url Generator",
+    "version": "0.1",
+    "description": "Generates a uwo ezproxy url from the current tab and reloads the page with that url.",
+    "icons" : {
+        "32" : "logo32.png",
+        "64" : "logo64.png",
+        "128": "logo128.png"
+    },
+    "permissions": [
+        "tabs"
+    ],
+  
+    "browser_action": {
+        "default_title": "UWO EzProxy",
+        "default_icon" : "logo32.png"
+    },
+  
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
