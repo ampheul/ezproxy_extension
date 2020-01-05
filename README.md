@@ -10,4 +10,4 @@ A browser extension for University of Western Ontario\'s Ezproxy service.
 
 ## Use
 
-When you are on the webpage of an academic article or newspaper behind a paywall, select the EZ proxy buton in your toolbar. This will take you to a login screen. Once you sign in with your credentials, you will return to your academic article or newspaper with campus level access.
+When you are on the webpage of an academic article or newspaper behind a paywall, select the EZ proxy buton in your toolbar. This will take you to a login screen. Once you sign in you will return to the previous page with campus level access.
